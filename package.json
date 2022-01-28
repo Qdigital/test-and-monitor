@@ -20,7 +20,7 @@
     "gulp-sass": "^2.3.2"
   },
   "dependencies": {
-    "@ibm/plex": "^1.1.4",
+    "@ibm/plex": "^6.0.0",
     "foundation-sites": "^6.5.0-rc.2"
   }
 }
